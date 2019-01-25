@@ -1,7 +1,7 @@
 // Your name
 // Your UMKC Email Address
 // Today's date
-// CS201L Lab 01
+// CS201L Lab 10
 
 #include <iostream>
 #include <string>
